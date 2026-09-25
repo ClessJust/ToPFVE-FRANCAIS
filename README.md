@@ -21,7 +21,7 @@ ______________________________________
 
 Lien du patcher :
 
-https://clessjust.github.io/
+https://clessjust.github.io/ToPFVE-FRANCAIS/patcher/
 ______________________________________
 
 Traducteur :
