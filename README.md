@@ -4,7 +4,7 @@ Tales of Phantasia Full voice edition en Français
 ToPFVE-FRANCAIS
 ____________________________________________________
 
-Sortie initiale : XX/08/2026
+Sortie initiale : 25/09/2026
 
 ____________________________________________________
 
@@ -21,7 +21,7 @@ ______________________________________
 
 Lien du patcher :
 
-https://clessjust.github.io/
+https://clessjust.github.io/ToPFVE-FRANCAIS/patcher/
 ______________________________________
 
 Traducteur :
